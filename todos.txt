@@ -1,0 +1,1 @@
+1. Make market data values as numbers
